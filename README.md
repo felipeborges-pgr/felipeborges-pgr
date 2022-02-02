@@ -26,6 +26,8 @@
     <a href="mailto:felipeborges118@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/felipe-borges-1a1910209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
   <a href="https://discord.com/channels/938508695963332628/938508695963332631" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  
+    ![Snake animation](https://github.com/felipeborges-pgr/felipeborges-pgr/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-  ![Snake animation](https://github.com/felipeborges-pgr/blob/output/github-contribution-grid-snake.svg)
+
