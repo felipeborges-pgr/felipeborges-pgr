@@ -1,7 +1,7 @@
-## Olá! eu sou Felipe Borges, um Desenvolvedor Web!
+## Olá! eu sou Felipe Borges, um desenvolvedor web!
 
 - 🎓 Análise e Desenvolvimento de Sistemas
-- 🌱 Aprendendo Java e Angular
+- 🧠 Aprendendo Java e Angular
 - ✨ Aprecio resolver problemas e enfrentar desafios
 <div align="center">
   <a href="https://github.com/https://github.com/felipeborges-pgr">
